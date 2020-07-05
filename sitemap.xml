@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://springturn.com/uiuc-offer-0/</loc>
+    
+    <lastmod>2020-07-05T12:40:47.377Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://springturn.com/ucl-offer-0/</loc>
     
     <lastmod>2020-07-05T11:36:39.972Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>https://springturn.com/ue-offer-0/</loc>
     
     <lastmod>2020-07-05T11:36:26.776Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://springturn.com/uiuc-offer-0/</loc>
-    
-    <lastmod>2020-07-05T11:36:11.897Z</lastmod>
     
   </url>
   
@@ -121,14 +121,14 @@
   </url>
   
   <url>
-    <loc>https://springturn.com/tags/index.html</loc>
+    <loc>https://springturn.com/contact/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://springturn.com/contact/index.html</loc>
+    <loc>https://springturn.com/tags/index.html</loc>
     
     <lastmod>2020-04-05T02:43:43.000Z</lastmod>
     
